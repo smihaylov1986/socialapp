@@ -1,7 +1,7 @@
 {
 "users" : [
-{ "name" : "Svetoslav Mihaylov"  , age : 20},
-{ "name" : "Daniel Petrov"  , age : 45},
-{ "name" : "Ivan Ivanov"  , age : 29}
+{ "name" : "Svetoslav Mihaylov"  , "age" : 20},
+{ "name" : "Daniel Petrov"  , "age" : 45},
+{ "name" : "Ivan Ivanov"  , "age" : 29}
 ]
 }
